@@ -9,7 +9,7 @@
  * 📧 Contact  : jindalvaibhav63@gmail.com
  */
 
-#include "../data_structures/queue.hpp"
+#include "../data_structures/Queue.hpp"
 #include <iostream>
 #include <string>
 

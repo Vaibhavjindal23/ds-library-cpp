@@ -11,7 +11,7 @@
 
 #include <iostream>
 #include <cassert>
-#include "../data_structures/stack.hpp"
+#include "../data_structures/Stack.hpp"
 
 using namespace data_structures;
 

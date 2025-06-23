@@ -9,7 +9,7 @@
  * 📧 Contact  : jindalvaibhav63@gmail.com
  */
 
-#include "../data_structures/Graph.hpp"
+#include "../data_structures/graph.hpp"
 using namespace data_structures;
 
 // ------------------------- Utility Functions ----------------------------

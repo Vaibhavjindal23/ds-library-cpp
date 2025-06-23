@@ -9,7 +9,7 @@
  * 📧 Contact  : jindalvaibhav63@gmail.com
  */
 
-#include "../data_structures/DisjointSet.hpp"
+#include "../data_structures/disjointset.hpp"
 using namespace data_structures;
 
 int main() {
