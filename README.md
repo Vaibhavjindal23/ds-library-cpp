@@ -247,24 +247,19 @@ A fully-featured singly linked list class offering both **basic and advanced uti
 
 ---
 
-
 ✅ Installation & Usage
-To use the entire library, simply include individual headers as needed:
-#include "Array.hpp"
-#include "Queue.hpp"
-#include "Stack.hpp"
-#include "Trie.hpp"
-#include "Tree.hpp"
-#include "Singly_Linked_List.hpp"
-#include "graph.hpp"
-#include "disjointset.hpp"
+To use the entire library, include individual components as needed, or use a single umbrella header.
+| Usage Type             | Code Snippet                                                                                                                                                                                                                  |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔹 Individual Includes | `#include "Array.hpp"`<br>`#include "Queue.hpp"`<br>`#include "Stack.hpp"`<br>`#include "Trie.hpp"`<br>`#include "Tree.hpp"`<br>`#include "Singly_Linked_List.hpp"`<br>`#include "graph.hpp"`<br>`#include "disjointset.hpp"` |
+| ✅ Umbrella Include     | `#include "data_structures.hpp"`<br><sub><i>(Create this file to include all headers internally)</i></sub>                                                                                                                    |
 
-Or include all at once using your umbrella header (recommended):
 
-#include "data_structures.hpp"  // [Create this file to include all headers]
+
 
 📧 Contact
 For doubts, collaborations, or feedback:
+
 📩 Email: jindalvaibhav63@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/vaibhav-jindal-b1b917250/
 
