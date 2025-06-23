@@ -1,13 +1,14 @@
 /**
- * @author      Vaibhav Jindal
- *              B.Tech CSE Core, VIT Bhopal
+ * 📌 How to Run This File in Gitpod Terminal:
  * 
- * @details     Modular, templated C++ library for 
- *              educational, research, and production use.
+ * 👉 Step 1: Make sure you're in the root directory.
+ * 👉 Step 2: Compile the file using:
+ *     g++ -std=c++17 tests/main.cpp -o run && ./run
  * 
- * 📦 Namespace: data_structures
- * 📧 Contact  : jindalvaibhav63@gmail.com
+ *    This will compile and execute the main demo file 
+ *    for testing multiple data structures from the DSHub++ library.
  */
+
 
 #include "../data_structures/data_structures.hpp"
 using namespace data_structures;
