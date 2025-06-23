@@ -3,4 +3,3 @@
 *.out
 .vscode/
 .DS_Store
-*.cpp
