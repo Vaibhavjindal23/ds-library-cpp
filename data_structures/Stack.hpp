@@ -12,7 +12,7 @@
 #ifndef STACK_HPP
 #define STACK_HPP
 
-#include "array.hpp"       // Custom dynamic array implementation
+#include "Array.hpp"       // Custom dynamic array implementation
 #include <iostream>        // For printing
 #include <stdexcept>       // For standard exception handling
 #include <limits>
@@ -272,4 +272,4 @@ void Stack<T>::reverse() {
 
 }  // namespace data_structures
 
-#endif  // STACK_HPP
+#endif  
