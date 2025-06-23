@@ -1,4 +1,4 @@
-# 📚 Data Structures C++ Library
+# 📚 Data Structures C++ Library - DSHub++
 
 A highly modular, templated C++ library implementing essential and advanced data structures under a unified `data_structures` namespace. Designed for **education**, **research**, and **production-level systems**, it features clean organization, extensive Doxygen-style documentation, and extensibility.
 
