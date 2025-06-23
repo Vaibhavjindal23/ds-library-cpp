@@ -1,3 +1,13 @@
+/**
+ * @author      Vaibhav Jindal
+ *              B.Tech CSE Core, VIT Bhopal
+ * 
+ * @details     Modular, templated C++ library for 
+ *              educational, research, and production use.
+ * 
+ * 📦 Namespace: data_structures
+ * 📧 Contact  : jindalvaibhav63@gmail.com
+ */
 #ifndef SINGLY_LINKED_LIST_HPP
 #define SINGLY_LINKED_LIST_HPP
 
